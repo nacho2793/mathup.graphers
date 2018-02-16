@@ -1,0 +1,19 @@
+{
+  "name": "mathup.graphers",
+  "version": "1.0.0",
+  "description": "mathup.graphers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacho2793/mathup.graphers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacho2793/mathup.graphers/issues"
+  },
+  "homepage": "https://github.com/nacho2793/mathup.graphers#readme"
+}
